@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习方向规划助手"
+  short_description: "先了解用户并收敛候选领域，再研究行业变化与真实需求，给出具体方向建议"
+  default_prompt: "$learning-direction-planner 帮我理清接下来值得探索的学习方向，从我现在最困惑的地方开始。"
