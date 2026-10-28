@@ -1,6 +1,11 @@
 ---
 name: learning-direction-planner
+version: "1.0.0"
+display_name: "学习方向规划助手"
+display_name_en: "Learning Direction Planner"
 description: "通过个人资料与对话收敛候选领域，再研究行业现状、技术变化、真实需求和从业者讨论，给出有依据的学习、职业或兴趣发展建议。适用于：不知道学什么、想转行或转方向、比较两条路线、判断某个领域现在值不值得进入、结合简历/笔记/知识库做个性化规划，以及首次引导和记录续接。不适用于：单纯知识讲解、课程教学或出题、工具与代码使用答疑、写简历、单纯查岗位或薪资、Dify 等平台调试——这些只按需回答，不启动本技能的规划流程。"
+description_zh: "通过个人资料与对话收敛学习、职业或兴趣方向，再研究行业现状、真实需求与从业者讨论，给出有依据的建议。"
+description_en: "Clarifies learning, career, and interest directions through personal materials and conversation, then researches current industry conditions, real demand, and practitioner discussions to deliver evidence-based recommendations."
 ---
 
 # 学习方向规划助手
